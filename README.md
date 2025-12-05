@@ -11,7 +11,7 @@ O fluxo da solução segue o modelo:
 3.  **LocalStack:** Simula a API da AWS localmente.
 4.  **Navegador:** Faz requisições HTTP para o endpoint local para renderizar o conteúdo.
 
-![Diagrama](assets/diagram.jpeg))
+![Diagrama](assets/diagram.jpeg)
 
 ## 🛠️ Pré-requisitos
 
